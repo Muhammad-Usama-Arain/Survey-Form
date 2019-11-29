@@ -8,6 +8,8 @@ html {
 body{
 	background: url('header.jpg') no-repeat center center fixed;
 	background-size: cover; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 
 }
 
